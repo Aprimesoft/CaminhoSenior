@@ -1,0 +1,17 @@
+{
+  "name": "votaangola",
+  "version": "1.0.0",
+  "description": "Sistema Eleitoral Angolano, Criado para as Eleições Presidenciais em Angola.",
+  "main": "app.js",
+  "scripts": {
+    "test": "start"
+  },
+  "keywords": [
+    "Vote",
+    "Angola",
+    "Eleições",
+    "Online"
+  ],
+  "author": "Armando dungue Baltazar- CEO da PrimeSoft",
+  "license": "ISC"
+}

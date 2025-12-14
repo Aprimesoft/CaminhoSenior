@@ -3,8 +3,11 @@
   "version": "1.0.0",
   "description": "Sistema Eleitoral Angolano, Criado para as Eleições Presidenciais em Angola.",
   "main": "app.js",
+  "type": "module",
   "scripts": {
-    "test": "start"
+    "test": "start",
+    "i":"npm i express dotenv sequelize mysql2",
+    "dev":""
   },
   "keywords": [
     "Vote",
@@ -13,5 +16,11 @@
     "Online"
   ],
   "author": "Armando dungue Baltazar- CEO da PrimeSoft",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "mysql2": "^3.15.3",
+    "sequelize": "^6.37.7"
+  }
 }
